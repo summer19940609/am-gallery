@@ -1,0 +1,13 @@
+{
+  "name": "am-gallery",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gallery of pages generated with Answer me with HTML",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build-index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
