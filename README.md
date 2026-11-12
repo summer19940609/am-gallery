@@ -13,7 +13,7 @@
 
 1. 用 `am render 草稿.md --no-open` 生成页面（默认输出在 `~/.answer-me-with-html/pages/`）。
 2. 把生成的 `.html` 复制到 `pages/`，可选地把 Markdown 草稿复制到 `drafts/`。
-3. 文件名只用小写字母、数字和连字符，建议以日期开头，例如 `2026-11-12-tcp-handshake.html`。日期前缀用于排序；没有时退回 `<meta name="date">` 或最后一次提交时间。
+3. 文件名只用小写字母、数字和连字符，建议以日期开头，例如 `2026-11-12-enterprise-ai-coding.html`。日期前缀用于排序；没有时退回 `<meta name="date">` 或最后一次提交时间。
 4. 提交并推送到 `main`，两个平台都会自动重新构建。
 
 本地预览：
@@ -40,7 +40,6 @@ npx serve dist         # 或 python3 -m http.server -d dist
 
 - **这是公开仓库。** 不要提交包含私有代码、内部地址、密钥或个人信息的页面。页面里隐藏的 `#am-source` 会保留完整草稿原文。
 - 页面请作为独立网页打开，不要用 iframe 嵌入：每个页面自带内容安全策略（CSP），嵌套可能出问题。
-- 示例页面 `pages/2026-11-12-tcp-handshake.html` 由 answer-me-with-html 自带的中文示例 `examples/tcp.md` 渲染（MIT）。
 
 ## 许可
 
