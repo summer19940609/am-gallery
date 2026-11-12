@@ -1,0 +1,65 @@
+{
+  "label": {
+    "zh": "松石财经绿",
+    "en": "Financial Emerald"
+  },
+  "tokens": {
+    "common": {
+      "--radius": "6px",
+      "--shadow": "0 1px 2px rgba(6, 40, 28, 0.05)",
+      "--bw": "1px"
+    },
+    "light": {
+      "--bg": "#f3f6f4",
+      "--paper": "#ffffff",
+      "--ink": "#132a20",
+      "--ink-2": "#324d41",
+      "--ink-3": "#4b6659",
+      "--line": "#cedbd3",
+      "--line-2": "#e3ebe6",
+      "--fill": "#eff4f1",
+      "--accent": "#046c4e",
+      "--accent-bg": "#e2f5ee",
+      "--ok": "#046c4e",
+      "--ok-bg": "#e2f5ee",
+      "--err": "#b42318",
+      "--err-bg": "#fef0ef",
+      "--warn": "#9e5100",
+      "--warn-bg": "#fef4e6",
+      "--head-bg": "#edf3ef",
+      "--head-fg": "#132a20",
+      "--series-1": "#046c4e",
+      "--series-2": "#b45309",
+      "--series-3": "#1d4ed8",
+      "--series-4": "#7c3aed",
+      "--series-5": "#0e7490",
+      "--series-6": "#be185d"
+    },
+    "dark": {
+      "--bg": "#0c1712",
+      "--paper": "#13221b",
+      "--ink": "#e8f1ec",
+      "--ink-2": "#b9cdc2",
+      "--ink-3": "#92ada0",
+      "--line": "#253e32",
+      "--line-2": "#1c3127",
+      "--fill": "#192d24",
+      "--accent": "#34d399",
+      "--accent-bg": "#103527",
+      "--ok": "#34d399",
+      "--ok-bg": "#103527",
+      "--err": "#fda29b",
+      "--err-bg": "#3b1718",
+      "--warn": "#fdb022",
+      "--warn-bg": "#36250c",
+      "--head-bg": "#192e25",
+      "--head-fg": "#e8f1ec",
+      "--series-1": "#34d399",
+      "--series-2": "#fdb022",
+      "--series-3": "#60a5fa",
+      "--series-4": "#a78bfa",
+      "--series-5": "#22d3ee",
+      "--series-6": "#f472b6"
+    }
+  }
+}

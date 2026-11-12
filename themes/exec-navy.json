@@ -1,0 +1,66 @@
+{
+  "label": {
+    "zh": "深海政企蓝",
+    "en": "Executive Navy"
+  },
+  "tokens": {
+    "common": {
+      "--radius": "4px",
+      "--shadow": "none",
+      "--bw": "1px"
+    },
+    "light": {
+      "--bg": "#eef2f6",
+      "--paper": "#ffffff",
+      "--ink": "#102a43",
+      "--ink-2": "#334e68",
+      "--ink-3": "#486581",
+      "--line": "#bcccdc",
+      "--line-2": "#d9e2ec",
+      "--fill": "#f0f4f8",
+      "--accent": "#1d4ed8",
+      "--accent-bg": "#e0ecff",
+      "--ok": "#046c4e",
+      "--ok-bg": "#e3f5ee",
+      "--err": "#b91c1c",
+      "--err-bg": "#feecec",
+      "--warn": "#9a4a00",
+      "--warn-bg": "#fef3e2",
+      "--head-bg": "#102a43",
+      "--head-fg": "#ffffff",
+      "--series-1": "#1d4ed8",
+      "--series-2": "#b45309",
+      "--series-3": "#046c4e",
+      "--series-4": "#6d28d9",
+      "--series-5": "#0369a1",
+      "--series-6": "#be123c"
+    },
+    "dark": {
+      "--bg": "#0b1420",
+      "--paper": "#121f30",
+      "--ink": "#eef2f6",
+      "--ink-2": "#bcccdc",
+      "--ink-3": "#9fb3c8",
+      "--line": "#243b53",
+      "--line-2": "#1c3045",
+      "--fill": "#192b40",
+      "--accent": "#60a5fa",
+      "--accent-bg": "#172e52",
+      "--ok": "#34d399",
+      "--ok-bg": "#0f3328",
+      "--err": "#f87171",
+      "--err-bg": "#3b171b",
+      "--warn": "#fbbf24",
+      "--warn-bg": "#36250d",
+      "--head-bg": "#1c3450",
+      "--head-fg": "#ffffff",
+      "--series-1": "#60a5fa",
+      "--series-2": "#fbbf24",
+      "--series-3": "#34d399",
+      "--series-4": "#a78bfa",
+      "--series-5": "#38bdf8",
+      "--series-6": "#fb7185"
+    }
+  },
+  "css": "& .am-panel-id { background: rgba(255,255,255,0.16); color: #ffffff; }"
+}

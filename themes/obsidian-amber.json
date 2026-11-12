@@ -1,0 +1,66 @@
+{
+  "label": {
+    "zh": "黑曜石琥珀",
+    "en": "Obsidian Amber"
+  },
+  "tokens": {
+    "common": {
+      "--radius": "2px",
+      "--shadow": "none",
+      "--bw": "1.5px"
+    },
+    "light": {
+      "--bg": "#f2f1ec",
+      "--paper": "#fcfcfa",
+      "--ink": "#18181b",
+      "--ink-2": "#3f3f46",
+      "--ink-3": "#52525b",
+      "--line": "#d4d4cf",
+      "--line-2": "#e6e5df",
+      "--fill": "#ecebe4",
+      "--accent": "#a14a00",
+      "--accent-bg": "#fdf0e0",
+      "--ok": "#156839",
+      "--ok-bg": "#e7f6ec",
+      "--err": "#b91c1c",
+      "--err-bg": "#feecec",
+      "--warn": "#a14a00",
+      "--warn-bg": "#fdf0e0",
+      "--head-bg": "#18181b",
+      "--head-fg": "#fafaf9",
+      "--series-1": "#b45309",
+      "--series-2": "#1d4ed8",
+      "--series-3": "#156839",
+      "--series-4": "#6d28d9",
+      "--series-5": "#0f766e",
+      "--series-6": "#be123c"
+    },
+    "dark": {
+      "--bg": "#0e0f11",
+      "--paper": "#16171b",
+      "--ink": "#f4f4f5",
+      "--ink-2": "#d4d4d8",
+      "--ink-3": "#a1a1aa",
+      "--line": "#2e3038",
+      "--line-2": "#24262d",
+      "--fill": "#1f2127",
+      "--accent": "#f59e0b",
+      "--accent-bg": "#362509",
+      "--ok": "#4ade80",
+      "--ok-bg": "#11331f",
+      "--err": "#f87171",
+      "--err-bg": "#3b1718",
+      "--warn": "#fbbf24",
+      "--warn-bg": "#362509",
+      "--head-bg": "#23252c",
+      "--head-fg": "#f4f4f5",
+      "--series-1": "#f59e0b",
+      "--series-2": "#60a5fa",
+      "--series-3": "#4ade80",
+      "--series-4": "#a78bfa",
+      "--series-5": "#2dd4bf",
+      "--series-6": "#fb7185"
+    }
+  },
+  "css": "& .am-panel-id { background: rgba(255,255,255,0.16); color: #fafaf9; }"
+}
