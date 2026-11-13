@@ -169,9 +169,6 @@ function render(pages) {
   <main>
     ${list}
   </main>
-  <footer class="site">
-    <p>页面由开源项目 <a href="https://github.com/QingYunA/answer-me-with-html" rel="noopener">answer-me-with-html</a> 生成（<a href="https://answer-me-with-html.com/" rel="noopener">answer-me-with-html.com</a>）。本站为个人画廊，非官方站点。</p>
-  </footer>
 </body>
 </html>
 `;

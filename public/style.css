@@ -39,7 +39,8 @@ body {
   font: 16px/1.7 var(--font);
 }
 a { color: inherit; }
-header.site, main, footer.site { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+header.site, main { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+main { padding-bottom: 56px; }
 header.site { padding-top: 56px; padding-bottom: 28px; }
 header.site h1 {
   margin: 0 0 8px;
@@ -106,16 +107,6 @@ header.site h1 {
 }
 .empty-title { font-size: 18px; font-weight: 600; color: var(--ink); margin: 0 0 6px; }
 code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .9em; }
-footer.site {
-  padding-top: 40px;
-  padding-bottom: 48px;
-  font-size: 13px;
-  color: var(--faint);
-  border-top: 1px solid var(--line-2);
-  margin-top: 40px;
-}
-footer.site a { color: var(--accent); text-decoration: none; }
-footer.site a:hover { text-decoration: underline; }
 @media (max-width: 520px) {
   header.site { padding-top: 36px; }
   .card a { padding: 18px; }
